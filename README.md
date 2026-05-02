@@ -1,2 +1,2 @@
-# learn-
+# learn
 always try something new 
