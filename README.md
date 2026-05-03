@@ -188,3 +188,8 @@ I'm not faking
 把那齣戲留到以後吧
 我不是在假裝
 
+<!-- wp:cover {"url":"https://strivingdot.wordpress.com/wp-content/uploads/2026/04/screenshot_20260402_195733_photoeditor8614193840434905767.jpg?w=771","id":273,"dimRatio":50,"className":"is-light","layout":{"type":"constrained"}} -->
+<div class="wp-block-cover is-light"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span><img class="wp-block-cover__image-background wp-image-273" alt="" src="https://strivingdot.wordpress.com/wp-content/uploads/2026/04/screenshot_20260402_195733_photoeditor8614193840434905767.jpg?w=771" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…"} -->
+<p class="has-text-align-center"></p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:cover -->
