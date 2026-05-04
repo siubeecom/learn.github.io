@@ -1,4 +1,16 @@
 # learn
+head>
+<style> .city {
+}
+background-color: gray; color: white;
+border: 2px solid black;
+margin: 20px;
+padding: 20px;
+</style> </head>
+<body>
+
+
+
 always try something new 
 可以寫多少？
 [Verse 1]
