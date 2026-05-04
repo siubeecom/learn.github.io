@@ -1,18 +1,9 @@
 # learn
-head>
-<style> .city {
-}
-background-color: gray; color: white;
-border: 2px solid black;
-margin: 20px;
-padding: 20px;
-</style> </head>
-<body>
-
-
 
 always try something new 
 可以寫多少？
+
+
 [Verse 1]
 You slid in smooth
 Like you knew the code
@@ -206,8 +197,10 @@ I'm not faking
 <!-- /wp:paragraph --></div></div>
 <!-- /wp:cover -->
 head>
-<style> .city {
-}
+
+
+
+
 background-color: gray; color: white;
 border: 2px solid black;
 margin: 20px;
@@ -223,4 +216,4 @@ padding: 20px;
 <div class="city'">
 <h2>Tokyo</h2>
 <p>Tokyo is the capital of Japan.</p> </div>
-</body> </html>
+</body>
